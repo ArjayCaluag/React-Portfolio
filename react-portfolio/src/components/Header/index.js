@@ -15,9 +15,9 @@ function Header() {
       <div class="hero-body" id="content1">
         <div class="container has-text-centered ">
           <div class="column is-one-third" id="intro">
-            <h2 class="subtitle has-text-white">Online Portfolio</h2>
-            <h1 class="title has-text-white">RON-ARJAY CALUAG</h1>
-            <h2 class="has-text-white"> Full Stack Web Developer</h2>
+            <h2 class="subtitle has-text-black">Online Portfolio</h2>
+            <h1 class="title has-text-black">RON-ARJAY CALUAG</h1>
+            <h2 class="has-text-black"> Full Stack Web Developer</h2>
 
             <a href="#about-me-sec" class="button mt-4">
               About Me
