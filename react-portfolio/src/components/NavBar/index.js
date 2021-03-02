@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import {Link} from "react-router-dom"
-import resume from "../../assets/Ron-ArjayCaluagBerResume.pdf"
+import resume from "../../assets/Ron-ArjayCaluagResumeB.pdf"
 
 function NavBar() {
   return (
@@ -30,7 +30,7 @@ function NavBar() {
                             href="https://www.linkedin.com/in/ron-arjay-caluag-00b29b182/">
                             Linkedin
                         </a>
-                        <a href = {resume} target = "_blank" class="navbar-item has-text-white">
+                        <a href={resume} target = "_blank" class="navbar-item has-text-white">
                             Resume
                             </a>
                     </div>
