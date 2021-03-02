@@ -1,11 +1,12 @@
 import React from "react"
+import AboutMeSec from "../../components/AboutMe"
 
 
 function AboutMe() {
   return (
 <div>
 
-<h1>test2</h1>
+<AboutMeSec/>
 
 </div>
   )
