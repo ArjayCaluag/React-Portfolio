@@ -15,7 +15,7 @@ function App() {
         <NavBar />
 
         <Switch>
-          <Route exact path={["/", "landing"]}>
+          <Route exact path={["/", "landing", "/react-portfolio"]}>
             <Landing />
           </Route>
           <Route exact path ='/projects'>
