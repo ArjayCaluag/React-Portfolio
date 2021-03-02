@@ -6,19 +6,19 @@ import resume from "../../assets/Ron-ArjayCaluagResumeB.pdf";
 function NavBar() {
   return (
     <nav
-      class="navbar"
+      className="navbar"
       role="navigation"
       aria-label="main navigation"
       id="navbar1"
     >
-      <div class="navbar-brand">
+      <div className="navbar-brand">
         <Link to="/" class="navbar-item has-text-white">
           Home
         </Link>
 
         <a
           role="button"
-          class="navbar-burger"
+          className="navbar-burger"
           aria-label="menu"
           aria-expanded="true"
           data-target="navbarBasicExample"
@@ -30,9 +30,9 @@ function NavBar() {
       </div>
 
       <div id="navbarBasicExample" class="navbar-menu">
-        <div class="navbar-end">
+        <div className="navbar-end">
           <a
-            class="navbar-item has-text-white"
+            className="navbar-item has-text-white"
             href="https://github.com/ArjayCaluag"
             target="_blank"
           >
@@ -40,13 +40,13 @@ function NavBar() {
           </a>
 
           <a
-            class="navbar-item has-text-white "
+            className="navbar-item has-text-white "
             href="https://www.linkedin.com/in/ron-arjay-caluag-00b29b182/"
             target="_blank"
           >
             Linkedin
           </a>
-          <a href={resume} target="_blank" class="navbar-item has-text-white">
+          <a href={resume} target="_blank" className="navbar-item has-text-white">
             Resume
           </a>
         </div>

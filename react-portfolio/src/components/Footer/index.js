@@ -3,8 +3,8 @@ import "./style.css"
 
 function Footer() {
   return (
-    <footer class="footer">
-      <div class="content has-text-centered">
+    <footer className="footer">
+      <div className="content has-text-centered">
         <p>
             Designed by 
           <strong> Ron-Arjay Caluag</strong> with the use of React and Bulma

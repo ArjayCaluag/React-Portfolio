@@ -5,28 +5,28 @@ import resume from "../../assets/Ron-ArjayCaluagResumeB.pdf";
 
 function Header() {
   return (
-    <section class="hero is-fullheight is-dark" id="content1">
-      <div class="hero-head"></div>
+    <section className="hero is-fullheight is-dark" id="content1">
+      <div className="hero-head"></div>
 
       {/* // <!-- Hero content: will be in the middle --> */}
 
-      <div class="hero-body" id="content1">
-        <div class="container has-text-centered ">
-          <div class="column is-one-third" id="intro">
-            <h2 class="subtitle has-text-black">Online Portfolio</h2>
-            <h1 class="title has-text-black">RON-ARJAY CALUAG</h1>
-            <h2 class="has-text-black"> Full Stack Web Developer</h2>
+      <div className="hero-body" id="content1">
+        <div className="container has-text-centered ">
+          <div className="column is-one-third" id="intro">
+            <h2 className="subtitle has-text-black">Online Portfolio</h2>
+            <h1 className="title has-text-black">RON-ARJAY CALUAG</h1>
+            <h2 className="has-text-black"> Full Stack Web Developer</h2>
 
-            <Link to="/aboutme " target="_blank" class="button mt-4">
+            <Link to="/aboutme"  className="button mt-4">
               About Me{" "}
             </Link>
 
             <br />
-            <Link to="/projects" target="_blank" class="button mt-4">
+            <Link to="/projects"  className="button mt-4">
               Projects{" "}
             </Link>
 
-            <a href={resume} target="_blank" class="button mt-4">
+            <a href={resume} target="_blank" className="button mt-4">
               Resume
             </a>
           </div>
