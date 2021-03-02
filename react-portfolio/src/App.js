@@ -1,11 +1,11 @@
 import "./App.css";
 import React from "react";
 import NavBar from "./components/NavBar";
-import Footer from "./components/Footer"
+import Footer from "./components/Footer";
 
-import AboutMe from "./pages/About Me"
+import AboutMe from "./pages/About Me";
 import Landing from "./pages/Landing";
-import Projects from "./pages/Projects"
+import Projects from "./pages/Projects";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
@@ -18,15 +18,15 @@ function App() {
           <Route exact path={["/", "landing", "/react-portfolio"]}>
             <Landing />
           </Route>
-          <Route exact path ='/projects'>
-            <Projects/>
+          <Route exact path="/projects">
+            <Projects />
           </Route>
-          <Route exact path ='/aboutme'>
-            <AboutMe/>
+          <Route exact path="/aboutme">
+            <AboutMe />
           </Route>
         </Switch>
-     
-      <Footer/>
+
+        <Footer />
       </div>
     </Router>
   );

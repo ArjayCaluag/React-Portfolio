@@ -1,8 +1,8 @@
 import React from "react";
 import "./style.css";
-import linkedinpic from "../../assets/linkedinpic.jpg"
-import githubicon from "../../assets/iconfinder_mark-github_298822.png"
-import linkedinicon from "../../assets/iconfinder_51-linkedin_104452.png"
+import linkedinpic from "../../assets/linkedinpic.jpg";
+import githubicon from "../../assets/iconfinder_mark-github_298822.png";
+import linkedinicon from "../../assets/iconfinder_51-linkedin_104452.png";
 
 function AboutMeSec() {
   return (
@@ -14,7 +14,7 @@ function AboutMeSec() {
       <div class="hero-body">
         <div class="columns has-text-centered">
           <div class="column is-one-third" id="picture">
-            <img src={linkedinpic}/>
+            <img src={linkedinpic} />
           </div>
 
           <div class="column is-three-fifths " id="about-me">
@@ -24,7 +24,7 @@ function AboutMeSec() {
                 Up and coming aspiring full stack Web Developer. Currently
                 enrolled into Berkeley's Full Stack Bootcamp. I'm looking for an
                 opportunity to put my skill set to the test with a full-time web
-                development position.{" "}
+                development position. Please view my skill below!{" "}
               </p>
 
               <div class="column">
@@ -33,11 +33,14 @@ function AboutMeSec() {
                 <p class="has-text-white">650-922-9921</p>
                 <br />
 
-                <a href="https://github.com/ArjayCaluag/" target = "_blank">
+                <a href="https://github.com/ArjayCaluag/" target="_blank">
                   <img src={githubicon} />
                 </a>
 
-                <a href="https://www.linkedin.com/in/ron-arjay-caluag-00b29b182/" target = "_blank">
+                <a
+                  href="https://www.linkedin.com/in/ron-arjay-caluag-00b29b182/"
+                  target="_blank"
+                >
                   <img src={linkedinicon} />
                 </a>
               </div>

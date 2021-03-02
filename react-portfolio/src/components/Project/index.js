@@ -1,7 +1,6 @@
 import React from "react";
 import projects from "../../assets/projects.json";
-import './style.css'
-
+import "./style.css";
 
 const Project = () => {
   return (
@@ -27,20 +26,14 @@ const Project = () => {
                   </header>
                   <div className="card-content" id="projectCard">
                     <figure className="image is-4by3">
-                      <img src= {project.image} alt={project.name} />
+                      <img src={project.image} alt={project.name} />
                     </figure>
                   </div>
                   <footer className="card-footer">
-                    <a
-                      href= {project.deployed}
-                      className="card-footer-item"
-                    >
+                    <a href={project.deployed} className="card-footer-item">
                       Deployed Site
                     </a>
-                    <a
-                      href={project.repo}
-                      className="card-footer-item"
-                    >
+                    <a href={project.repo} className="card-footer-item">
                       Github Repo
                     </a>
                   </footer>

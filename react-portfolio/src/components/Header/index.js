@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import { Link } from "react-router-dom";
-import resume from "../../assets/Ron-ArjayCaluagResumeB.pdf"
+import resume from "../../assets/Ron-ArjayCaluagResumeB.pdf";
 
 function Header() {
   return (
@@ -17,20 +17,16 @@ function Header() {
             <h1 class="title has-text-black">RON-ARJAY CALUAG</h1>
             <h2 class="has-text-black"> Full Stack Web Developer</h2>
 
-            <Link to="/aboutme"  class="button mt-4">
+            <Link to="/aboutme " target="_blank" class="button mt-4">
               About Me{" "}
             </Link>
 
             <br />
-            <Link to="/projects" class="button mt-4">
+            <Link to="/projects" target="_blank" class="button mt-4">
               Projects{" "}
             </Link>
 
-            <a
-              href={resume}
-              target="_blank"
-              class="button mt-4">
-            
+            <a href={resume} target="_blank" class="button mt-4">
               Resume
             </a>
           </div>
