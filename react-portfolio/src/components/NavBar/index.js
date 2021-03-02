@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 import {Link} from "react-router-dom"
+import resume from "../../assets/Ron-ArjayCaluagBerResume.pdf"
 
 function NavBar() {
   return (
@@ -29,7 +30,7 @@ function NavBar() {
                             href="https://www.linkedin.com/in/ron-arjay-caluag-00b29b182/">
                             Linkedin
                         </a>
-                        <Link to ="/Ron-ArjayCaluagBerResume.pdf" target = "_blank" class="navbar-item has-text-white">
+                        <Link to = {resume} target = "_blank" class="navbar-item has-text-white">
                             Resume
                             </Link>
                     </div>

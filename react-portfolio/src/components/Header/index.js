@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import { Link } from "react-router-dom";
-// import NavBar from "./components/NavBar"
+import resume from "../../assets/Ron-ArjayCaluagBerResume.pdf"
 
 function Header() {
   return (
@@ -27,7 +27,7 @@ function Header() {
             </Link>
 
             <Link
-              to="/Ron-ArjayCaluagBerResume.pdf"
+              to={resume}
               target="_blank"
               class="button mt-4">
             
