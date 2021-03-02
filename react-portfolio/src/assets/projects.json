@@ -1,7 +1,7 @@
 [
     {
         "name": "Project 2",
-        "imgage": "Project2Snip.PNG",
+        "imgage": "./Project2Snip.PNG",
         "deployed": "https://party-x.herokuapp.com/",
         "repo": "https://github.com/ArjayCaluag/Project-2"
     },
