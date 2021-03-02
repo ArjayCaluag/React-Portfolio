@@ -30,9 +30,9 @@ function NavBar() {
                             href="https://www.linkedin.com/in/ron-arjay-caluag-00b29b182/">
                             Linkedin
                         </a>
-                        <Link to = {resume} target = "_blank" class="navbar-item has-text-white">
+                        <a href = {resume} target = "_blank" class="navbar-item has-text-white">
                             Resume
-                            </Link>
+                            </a>
                     </div>
                 </div>
             </nav>

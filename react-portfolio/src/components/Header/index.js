@@ -26,13 +26,13 @@ function Header() {
               Projects{" "}
             </Link>
 
-            <Link
-              to={resume}
+            <a
+              href = {resume}
               target="_blank"
               class="button mt-4">
             
               Resume
-            </Link>
+            </a>
           </div>
         </div>
       </div>
