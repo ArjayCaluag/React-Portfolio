@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.9961d431.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.0ea99841.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.0ea99841.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.b37a9cf2.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.b37a9cf2.js.map",
+    "static/js/2.8cd80a6a.chunk.js": "/React-Portfolio/static/js/2.8cd80a6a.chunk.js",
+    "static/js/2.8cd80a6a.chunk.js.map": "/React-Portfolio/static/js/2.8cd80a6a.chunk.js.map",
+    "static/js/3.59575580.chunk.js": "/React-Portfolio/static/js/3.59575580.chunk.js",
+    "static/js/3.59575580.chunk.js.map": "/React-Portfolio/static/js/3.59575580.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.9961d431.chunk.css.map": "/React-Portfolio/static/css/main.9961d431.chunk.css.map",
+    "static/js/2.8cd80a6a.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.8cd80a6a.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/React-Portfolio/static/media/karl-pawlowicz-QUHuwyNgSA0-unsplash.6f6cc446.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b37a9cf2.js",
+    "static/js/2.8cd80a6a.chunk.js",
+    "static/css/main.9961d431.chunk.css",
+    "static/js/main.0ea99841.chunk.js"
+  ]
+}
