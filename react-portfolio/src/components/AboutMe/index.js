@@ -33,11 +33,11 @@ function AboutMeSec() {
                 <p class="has-text-white">650-922-9921</p>
                 <br />
 
-                <a href="https://github.com/ArjayCaluag/">
+                <a href="https://github.com/ArjayCaluag/" target = "_blank">
                   <img src={githubicon} />
                 </a>
 
-                <a href="https://www.linkedin.com/in/ron-arjay-caluag-00b29b182/">
+                <a href="https://www.linkedin.com/in/ron-arjay-caluag-00b29b182/" target = "_blank">
                   <img src={linkedinicon} />
                 </a>
               </div>

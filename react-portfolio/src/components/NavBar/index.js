@@ -22,12 +22,12 @@ function NavBar() {
 
                 <div id="navbarBasicExample" class="navbar-menu">
                     <div class="navbar-end">
-                        <a class="navbar-item has-text-white" href="https://github.com/ArjayCaluag">
+                        <a class="navbar-item has-text-white" href="https://github.com/ArjayCaluag" target = "_blank">
                             Github
                         </a>
 
-                        <a class="navbar-item has-text-white"
-                            href="https://www.linkedin.com/in/ron-arjay-caluag-00b29b182/">
+                        <a class="navbar-item has-text-white "
+                            href="https://www.linkedin.com/in/ron-arjay-caluag-00b29b182/" target = "_blank">
                             Linkedin
                         </a>
                         <a href={resume} target = "_blank" class="navbar-item has-text-white">

@@ -17,7 +17,7 @@ function Header() {
             <h1 class="title has-text-black">RON-ARJAY CALUAG</h1>
             <h2 class="has-text-black"> Full Stack Web Developer</h2>
 
-            <Link to="/aboutme" class="button mt-4">
+            <Link to="/aboutme"  class="button mt-4">
               About Me{" "}
             </Link>
 
