@@ -1,15 +1,12 @@
 import React from "react";
 import "./style.css";
-import {Link} from "react-router-dom"
+import { Link } from "react-router-dom";
 // import NavBar from "./components/NavBar"
 
 function Header() {
   return (
     <section class="hero is-fullheight is-dark" id="content1">
-      <div class="hero-head">
-      
-
-      </div>
+      <div class="hero-head"></div>
 
       {/* // <!-- Hero content: will be in the middle --> */}
 
@@ -20,16 +17,22 @@ function Header() {
             <h1 class="title has-text-black">RON-ARJAY CALUAG</h1>
             <h2 class="has-text-black"> Full Stack Web Developer</h2>
 
-            <Link to = "/aboutme" class="button mt-4">
-              About Me </Link>
-            
+            <Link to="/aboutme" class="button mt-4">
+              About Me{" "}
+            </Link>
+
             <br />
-            <Link to = "/projects" class="button mt-4">
-              Projects </Link>
+            <Link to="/projects" class="button mt-4">
+              Projects{" "}
+            </Link>
+
+            <Link
+              to="/Ron-ArjayCaluagBerResume.pdf"
+              target="_blank"
+              class="button mt-4">
             
-            <a href="../..assets/Ron-ArjayCaluagBerResume.pdf" class="button mt-4">
               Resume
-            </a>
+            </Link>
           </div>
         </div>
       </div>

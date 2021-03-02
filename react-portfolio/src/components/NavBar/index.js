@@ -1,11 +1,14 @@
 import React from "react";
 import "./style.css";
+import {Link} from "react-router-dom"
 
 function NavBar() {
   return (
     <nav class="navbar" role="navigation" aria-label="main navigation" id="navbar1">
                 <div class="navbar-brand">
-                    <h1 class="mt-3 has-text-white ml-5">Connect with me!</h1>
+                <Link to ="/" class="navbar-item has-text-white">
+                           Home
+                        </Link>
 
 
                     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="true"
@@ -26,9 +29,9 @@ function NavBar() {
                             href="https://www.linkedin.com/in/ron-arjay-caluag-00b29b182/">
                             Linkedin
                         </a>
-                        <a class="navbar-item has-text-white" href="../../assets/Ron-ArjayCaluagBerResume.pdf">
+                        <Link to ="/Ron-ArjayCaluagBerResume.pdf" target = "_blank" class="navbar-item has-text-white">
                             Resume
-                        </a>
+                            </Link>
                     </div>
                 </div>
             </nav>

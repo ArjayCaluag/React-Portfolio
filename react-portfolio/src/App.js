@@ -25,8 +25,9 @@ function App() {
             <AboutMe/>
           </Route>
         </Switch>
-      </div>
+     
       <Footer/>
+      </div>
     </Router>
   );
 }
