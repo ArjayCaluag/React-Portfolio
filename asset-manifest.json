@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.9961d431.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.988af2ec.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.988af2ec.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.1ffe7e87.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.1ffe7e87.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.b37a9cf2.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.b37a9cf2.js.map",
     "static/js/2.8cd80a6a.chunk.js": "/React-Portfolio/static/js/2.8cd80a6a.chunk.js",
@@ -12,13 +12,13 @@
     "index.html": "/React-Portfolio/index.html",
     "static/css/main.9961d431.chunk.css.map": "/React-Portfolio/static/css/main.9961d431.chunk.css.map",
     "static/js/2.8cd80a6a.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.8cd80a6a.chunk.js.LICENSE.txt",
-    "static/media/Ron-ArjayCaluagBerResume.5a23e782.pdf": "/React-Portfolio/static/media/Ron-ArjayCaluagBerResume.5a23e782.pdf",
+    "static/media/Ron-ArjayCaluagResumeB.4be225c1.pdf": "/React-Portfolio/static/media/Ron-ArjayCaluagResumeB.4be225c1.pdf",
     "static/media/style.css": "/React-Portfolio/static/media/karl-pawlowicz-QUHuwyNgSA0-unsplash.6f6cc446.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b37a9cf2.js",
     "static/js/2.8cd80a6a.chunk.js",
     "static/css/main.9961d431.chunk.css",
-    "static/js/main.988af2ec.chunk.js"
+    "static/js/main.1ffe7e87.chunk.js"
   ]
 }
