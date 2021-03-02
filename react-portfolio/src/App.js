@@ -1,6 +1,7 @@
 import "./App.css";
 import React from "react";
 import NavBar from "./components/NavBar";
+import Footer from "./components/Footer"
 
 import AboutMe from "./pages/About Me"
 import Landing from "./pages/Landing";
@@ -25,6 +26,7 @@ function App() {
           </Route>
         </Switch>
       </div>
+      <Footer/>
     </Router>
   );
 }
