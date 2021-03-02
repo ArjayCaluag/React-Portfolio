@@ -1,11 +1,11 @@
 import React from "react"
-
+import Project from "../../components/Project"
 
 function Projects() {
   return (
 <div>
 
-<h1>test</h1>
+<Project/>
 
 </div>
   )

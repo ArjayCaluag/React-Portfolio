@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import {Link} from "react-router-dom"
 // import NavBar from "./components/NavBar"
 
 function Header() {
@@ -19,17 +20,14 @@ function Header() {
             <h1 class="title has-text-black">RON-ARJAY CALUAG</h1>
             <h2 class="has-text-black"> Full Stack Web Developer</h2>
 
-            <a href="#about-me-sec" class="button mt-4">
-              About Me
-            </a>
-            <a href="#skillsSec" class="button mt-4">
-              Skill Set
-            </a>
+            <Link to = "/aboutme" class="button mt-4">
+              About Me </Link>
+            
             <br />
-            <a href="#Projects" class="button mt-4">
-              Projects
-            </a>
-            <a href="assets/Ron-ArjayCaluagBerResume.pdf" class="button mt-4">
+            <Link to = "/projects" class="button mt-4">
+              Projects </Link>
+            
+            <a href="../..assets/Ron-ArjayCaluagBerResume.pdf" class="button mt-4">
               Resume
             </a>
           </div>

@@ -1,37 +1,37 @@
 [
     {
         "name": "Project 2",
-        "image": "",
+        "imgage": "Project2Snip.PNG",
         "deployed": "https://party-x.herokuapp.com/",
         "repo": "https://github.com/ArjayCaluag/Project-2"
     },
     {
         "name": "React Memory Game",
-        "image": "",
+        "image": "ReactClickySnip.PNG",
         "deployed": "https://arjaycaluag.github.io/React-Memory-Game/",
         "repo": "https://github.com/ArjayCaluag/React-Memory-Game"
     },
     {
         "name": " Workout Tracker",
-        "image": "",
+        "image": "workoutdashsnip.png",
         "deployed": "https://workouttracker-rc.herokuapp.com/",
         "repo": "https://github.com/ArjayCaluag/Workout-Tracker"
     },
     {
         "name": "Note Taker",
-        "image": "",
+        "image": "notetakerSnip.PNG",
         "deployed": "https://note-taker-rc.herokuapp.com/",
         "repo": "https://github.com/ArjayCaluag/Note-taker"
     },
     {
         "name": "Weather Dashboard",
-        "image": "",
+        "image": "weatherdashsnip.png",
         "deployed": "https://party-x.herokuapp.com/",
         "repo": "https://github.com/ArjayCaluag/Weather-dashboard"
     },
     {
         "name": "Random Password Generator",
-        "image": "",
+        "image": "PasswordSnip.PNG",
         "deployed": "https://arjaycaluag.github.io/random-password-generator/",
         "repo": "https://github.com/ArjayCaluag/random-password-generator"
     }

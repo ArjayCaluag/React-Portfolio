@@ -26,7 +26,7 @@ function NavBar() {
                             href="https://www.linkedin.com/in/ron-arjay-caluag-00b29b182/">
                             Linkedin
                         </a>
-                        <a class="navbar-item has-text-white" href="assets/Ron-ArjayCaluagBerResume.pdf">
+                        <a class="navbar-item has-text-white" href="../../assets/Ron-ArjayCaluagBerResume.pdf">
                             Resume
                         </a>
                     </div>
