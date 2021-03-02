@@ -1,37 +1,37 @@
 [
     {
         "name": "Project 2",
-        "imgage": "./Project2Snip.PNG",
+        "image": "https://user-images.githubusercontent.com/52800632/107716420-3a08ba00-6c86-11eb-8f3c-83bfae0e94f4.gif",
         "deployed": "https://party-x.herokuapp.com/",
         "repo": "https://github.com/ArjayCaluag/Project-2"
     },
     {
         "name": "React Memory Game",
-        "image": "ReactClickySnip.PNG",
+        "image": "https://user-images.githubusercontent.com/52800632/108802923-36124d00-754e-11eb-9598-597755b2b3e7.gif",
         "deployed": "https://arjaycaluag.github.io/React-Memory-Game/",
         "repo": "https://github.com/ArjayCaluag/React-Memory-Game"
     },
     {
         "name": " Workout Tracker",
-        "image": "workoutdashsnip.png",
+        "image": "https://user-images.githubusercontent.com/52800632/108585833-8182ec00-72ff-11eb-9f7a-c4bbe6a3cda4.png",
         "deployed": "https://workouttracker-rc.herokuapp.com/",
         "repo": "https://github.com/ArjayCaluag/Workout-Tracker"
     },
     {
         "name": "Note Taker",
-        "image": "notetakerSnip.PNG",
+        "image": "https://user-images.githubusercontent.com/52800632/105950308-ff1a4b80-6022-11eb-9bd5-1322d910dcad.png",
         "deployed": "https://note-taker-rc.herokuapp.com/",
         "repo": "https://github.com/ArjayCaluag/Note-taker"
     },
     {
         "name": "Weather Dashboard",
-        "image": "weatherdashsnip.png",
+        "image": "https://user-images.githubusercontent.com/52800632/103982393-44401180-5138-11eb-942f-8e9c8af1ebc7.png",
         "deployed": "https://party-x.herokuapp.com/",
         "repo": "https://github.com/ArjayCaluag/Weather-dashboard"
     },
     {
         "name": "Random Password Generator",
-        "image": "PasswordSnip.PNG",
+        "image": "https://user-images.githubusercontent.com/52800632/102680589-76300a80-416e-11eb-98e8-f0d29dc3859b.png",
         "deployed": "https://arjaycaluag.github.io/random-password-generator/",
         "repo": "https://github.com/ArjayCaluag/random-password-generator"
     }
